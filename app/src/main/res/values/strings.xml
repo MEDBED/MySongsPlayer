@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Song Player</string>
+
+    <string name="song_title"/>
+    <string name="song_artist"/>
+
+    <string name="action_settings">Settings</string>
+</resources>
